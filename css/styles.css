@@ -307,11 +307,11 @@ color: #2e2f42;
 }
 
 .portfolio-list{
-    display: flex;
+display: flex;
 flex-wrap: wrap;
 row-gap: 24px;
 column-gap: 48px;
-
+}
 
 /* footer */
 .page-footer {
