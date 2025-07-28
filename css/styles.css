@@ -442,6 +442,7 @@ text-transform: uppercase;
 }
 
 .footer-logo-wrapper{
+display: inline-block;
 display: flex;
 flex-direction: column;
 align-items: flex-start;
