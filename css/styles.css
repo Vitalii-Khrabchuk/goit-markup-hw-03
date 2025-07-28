@@ -405,6 +405,7 @@ color: #434455;
 }
 
 .heading-md-prt{
+margin-bottom: 8px;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -421,6 +422,8 @@ padding: 100px 0;
 }
 
 .footer-container{
+display: inline-block;
+margin-bottom: 16px;
 max-width: 1158px;
 margin: 0 auto;
 display: flex;
